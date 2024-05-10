@@ -1,3 +1,3 @@
 # spacegame
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mydz6m)
+fun Game. i love Video Games. for Fun and Game
