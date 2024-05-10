@@ -1,4 +1,4 @@
-import './style.css';
+
 
 var objects = [];
 var instances = [];
